@@ -3366,7 +3366,7 @@ body {
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
-  color: white;
+  color: black;
   background-color: white; }
 
 [tabindex="-1"]:focus {
@@ -6060,7 +6060,8 @@ body > * {
   background-repeat: repeat-x; }
 
 .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
-  font-family: inherit; }
+  font-family: inherit;
+  color: white; }
 
 
 #banner-logo {
@@ -6070,4 +6071,28 @@ body > * {
 
 #cover {
   height: 500px !important;
+}
+
+#sub-display {
+  color: white;
+}
+
+#venue {
+  color: white;
+}
+
+#venue.my-3 {
+  color: white;
+}
+
+.address-map {
+  /*color: #301506;*/
+  color: #F9B709;
+  text-shadow: 1px 1px #301506;
+
+}
+
+.headquarter-img {
+  background-repeat: no-repeat;
+  background-width: auto;
 }
