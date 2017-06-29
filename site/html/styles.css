@@ -1,0 +1,20 @@
+#banner {
+	background-color: #351C15;
+	height: 100px;
+	margin: none;
+	color: white;
+	font-size: 1em;
+	padding: 10px 0 10px 20px;
+}
+
+#banner_logo {
+	height: 100px;
+	float: left;
+}
+
+#banner_message {
+	font: 10px;
+	margin-left: 200px;
+	color: red;
+	float: right:;
+}
