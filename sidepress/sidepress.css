@@ -1,0 +1,28 @@
+
+.sidepress
+{
+	margin:8px;
+	padding:8px;
+	border: 1px dotted #CCC;
+	width:400px;
+	font-size:90%;
+	float:right;
+}
+
+.sidepress h3
+{
+	font-size:90%;
+	margin:0;
+}
+
+.sidepress p
+{
+  margin: 0 0 8px 0;
+}
+
+.sidedate
+{
+  font-style: italic;
+  color:#999;
+  margin-left:16px;
+}
